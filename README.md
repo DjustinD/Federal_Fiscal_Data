@@ -4,9 +4,7 @@ An interactive data visualization exploring how "low taxes" in the USA are actua
 
 ## 🌐 Live Demo
 
-**View the interactive analysis:** [https://djustind.github.io/REPOSITORY-NAME](https://djustind.github.io/REPOSITORY-NAME)
-
-*Replace `REPOSITORY-NAME` with your actual repository name*
+**View the interactive analysis:** [https://djustind.github.io/Federal_Fiscal_Data](https://djustind.github.io/Federal_Fiscal_Data)
 
 ## 📊 What This Analysis Shows
 
@@ -80,4 +78,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DjustinD/REPOSITORY-NAME.git
+   git clone https://github.com/DjustinD/Federal_Fiscal_Data.git
